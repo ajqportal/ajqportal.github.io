@@ -7,3 +7,5 @@
 })()
 
 $('#github').tooltip();
+$('#facebook').tooltip();
+$('#linkedin').tooltip();
